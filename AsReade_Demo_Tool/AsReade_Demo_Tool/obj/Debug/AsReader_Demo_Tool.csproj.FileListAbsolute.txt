@@ -1,0 +1,54 @@
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\AsReade_Demo_Tool.exe.config
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\AsReade_Demo_Tool.exe
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\AsReade_Demo_Tool.pdb
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\en-US\AsReade_Demo_Tool.resources.dll
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\zh-Hans\AsReade_Demo_Tool.resources.dll
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Form1.resources
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Properties.Resources.resources
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Form1.en-US.resources
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Form1.zh-Hans.resources
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReader_Demo_Tool.csproj.GenerateResource.Cache
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\en-US\AsReade_Demo_Tool.resources.dll
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\zh-Hans\AsReade_Demo_Tool.resources.dll
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.exe
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.pdb
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.start_load.resources
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.connect_load.resources
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReader_Demo_Tool.csprojResolveAssemblyReference.cache
+C:\yuren_jun\about work\code\demo progarm\c#demolist\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Seting_load.resources
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\AsReade_Demo_Tool.exe.config
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.exe
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.pdb
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\AsReade_Demo_Tool.exe
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\AsReade_Demo_Tool.pdb
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\en-US\AsReade_Demo_Tool.resources.dll
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\zh-Hans\AsReade_Demo_Tool.resources.dll
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReader_Demo_Tool.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Form1.resources
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.connect_load.resources
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Properties.Resources.resources
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Seting_load.resources
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.start_load.resources
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Form1.en-US.resources
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Form1.zh-Hans.resources
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReader_Demo_Tool.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\en-US\AsReade_Demo_Tool.resources.dll
+\\vmware-host\Shared Folders\yuren_jun\about work\code\company program\AsReader\AsReaderBoxMini2018.03.22\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\zh-Hans\AsReade_Demo_Tool.resources.dll
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\AsReade_Demo_Tool.exe.config
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.exe
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.pdb
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\AsReade_Demo_Tool.exe
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\AsReade_Demo_Tool.pdb
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\en-US\AsReade_Demo_Tool.resources.dll
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\bin\Debug\zh-Hans\AsReade_Demo_Tool.resources.dll
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Form1.resources
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.connect_load.resources
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Properties.Resources.resources
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Seting_load.resources
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.start_load.resources
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Form1.en-US.resources
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReade_Demo_Tool.Form1.zh-Hans.resources
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReader_Demo_Tool.csproj.GenerateResource.Cache
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\en-US\AsReade_Demo_Tool.resources.dll
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\zh-Hans\AsReade_Demo_Tool.resources.dll
+E:\xiaoyu\AsReaderBoxMini_Demo_Tool\AsReade_Demo_Tool\AsReade_Demo_Tool\obj\Debug\AsReader_Demo_Tool.csprojResolveAssemblyReference.cache
