@@ -2,8 +2,3 @@
 test
 
 python3 
-python
-
-
-าüะกม๚
-าüวษมแ
